@@ -1,10 +1,11 @@
 ## Hi there 👋
 
 
-**Madan9380/Madan9380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Madan Gowda B H** is a JAVA Full Stack Developer 
+<h3>I Am From Mysore</h3>
 
 Here are some ideas to get you started:
-
+---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
